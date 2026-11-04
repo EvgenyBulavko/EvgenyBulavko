@@ -7,36 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-VUE_%C2%B7_REACT_%C2%B7_TS-E10600?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/BACKEND-NESTJS_%2B_POSTGRES-E10600?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/DRS-AI_ENABLED-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="./circuit.svg" width="100%" />
 </p>
 
 <br />
 
-<h2 align="center">🔧 The Garage</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/FRONTEND-E10600?style=for-the-badge&labelColor=000000" />
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=vue,react,ts,pinia,sass,vite&perline=3&theme=dark" height="96" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/BACKEND-E10600?style=for-the-badge&labelColor=000000" />
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,redis,prisma&perline=3&theme=dark" height="96" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/TOOLS-E10600?style=for-the-badge&labelColor=000000" />
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,postman&perline=3&theme=dark" height="96" />
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="./garage.svg" width="100%" />
+</p>
 
 <br />
 
@@ -46,18 +24,6 @@
 
 <p align="center">
   <sub>Strict types · green builds · steady pace</sub>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="./car.svg" width="100%" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="./circuit.svg" width="100%" />
 </p>
 
 <p align="center">
