@@ -18,9 +18,9 @@
 
 <br />
 
-<h3 align="center">
+<h2 align="center">
   <i>"Fast laps start in the garage. Fast releases start in clean code."</i>
-</h3>
+</h2>
 
 <p align="center">
   <sub>Strict types · green builds · steady pace</sub>
